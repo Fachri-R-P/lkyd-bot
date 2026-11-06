@@ -27,7 +27,7 @@ LangChain or LlamaIndex, so every stage is visible in the code.
  │                   + numbered excerpts [1]..[5] + question
  │                        │
  │                        ▼
- │                Groq LLM (llama-3.3-70b-versatile)
+ │                Groq LLM (openai/gpt-oss-120b)
  │                        │
  └──────────► answer text with [n] citations + list of sources
                           │
@@ -55,9 +55,9 @@ LangChain or LlamaIndex, so every stage is visible in the code.
 
 ## Model choices
 
-- **LLM: Groq, `llama-3.3-70b-versatile`** (configurable via `GROQ_MODEL`). Groq has a
-  free tier and fast inference, and a 70B model follows the persona and citation
-  instructions well.
+- **LLM: Groq, `openai/gpt-oss-120b`** (configurable via `GROQ_MODEL`). Groq has a
+  free tier and fast inference, and a 120B open-weight reasoning model follows the
+  persona and citation instructions well.
 - **Embeddings: Chroma's default `all-MiniLM-L6-v2`.** Groq offers no embedding API.
   This model is small, runs locally on CPU and needs no extra service. It is
   English-only (see limitations).
