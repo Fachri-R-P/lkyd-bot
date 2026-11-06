@@ -1,0 +1,10 @@
+1999-12-28_sccci-millennium, https://www.nas.gov.sg/archivesonline/data/pdfdoc/1999122802.htm
+2005-04-28_the-asian-strategy, https://www.nas.gov.sg/archivesonline/data/pdfdoc/2005042803.htm
+1997-11-25_singapore-kwangtung-60th, https://www.nas.gov.sg/archivesonline/data/pdfdoc/1997112503.htm
+2009-07-01_the-launch-new-civilization, https://www.nas.gov.sg/archivesonline/data/pdfdoc/20090708001.htm
+2008-11-9_tree-planting-day-cum-tour, https://www.nas.gov.sg/archivesonline/data/pdfdoc/20081117003.htm
+1995-09-20_the-world-economic-forum, https://www.nas.gov.sg/archivesonline/speeches/record-details/72f062e4-115d-11e3-83d5-0050568939ad
+1964-11-20_democratic-socialist-club, https://www.nas.gov.sg/archivesonline/speeches/record-details/72ff5f89-115d-11e3-83d5-0050568939ad
+1966-11-24_academic-freedom-social-responsibility, https://www.nas.gov.sg/archivesonline/speeches/record-details/7356d763-115d-11e3-83d5-0050568939ad
+1964-06-10_land-acquisition-amandment, https://www.nas.gov.sg/archivesonline/speeches/record-details/737d690b-115d-11e3-83d5-0050568939ad
+2010-05-23_state-funeral-service, https://www.nas.gov.sg/archivesonline/speeches/record-details/80b9775d-115d-11e3-83d5-0050568939ad

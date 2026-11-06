@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "question": "How did Singapore recover from the recessions of 1985 and 1998 so quickly?",
+        "category": "in_corpus",
+        "expected_source": "1999-12-28_sccci-millennium.txt",
+        "key_points": [
+            "V-shaped recoveries",
+            "relevance to the world",
+            "human resources and training",
+            "prudent reserves"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Why does Singapore insist on continuous training and skills upgrading for workers?",
+        "category": "in_corpus",
+        "expected_source": "1999-12-28_sccci-millennium.txt",
+        "key_points": [
+            "Skills Development Fund",
+            "shelf life of skills shortens",
+            "training as long-term investment"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What is your strategy for dealing with Asia's rise?",
+        "category": "in_corpus",
+        "expected_source": "2005-04-28_the-asian-strategy.txt",
+        "key_points": [
+            "TODO: fill in after reading the speech"
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What is the relationship between Singapore and its Chinese roots?",
+        "category": "in_corpus",
+        "expected_source": "1997-11-25_singapore-kwangtung-60th.txt",
+        "key_points": [
+            "TODO: fill in after reading the speech"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What did you say about economic prospects at the World Economic Forum?",
+        "category": "in_corpus",
+        "expected_source": "1995-09-20_the-world-economic-forum.txt",
+        "key_points": [
+            "TODO: fill in after reading the speech"
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Why should academic freedom come with social responsibility?",
+        "category": "in_corpus",
+        "expected_source": "1966-11-24_academic-freedom-social-responsibility.txt",
+        "key_points": [
+            "TODO: fill in after reading the speech"
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Why does the state need the power to acquire land?",
+        "category": "in_corpus",
+        "expected_source": "1964-06-10_land-acquisition-amendment.txt",
+        "key_points": [
+            "TODO: fill in after reading the speech"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "How does a small country stay united and prosperous?",
+        "category": "general_view",
+        "key_points": [
+            "national unity",
+            "pragmatism",
+            "Singapore's own experience as the example"
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Should a developing country choose democracy first or economic development first?",
+        "category": "general_view",
+        "key_points": [
+            "development and order as priorities",
+            "pragmatic rather than ideological",
+            "draws on Singapore's experience"
+        ]
+    },
+    {
+        "id": 10,
+        "question": "What advice would you give a young person starting their career today?",
+        "category": "general_view",
+        "key_points": [
+            "continuous learning",
+            "discipline and hard work",
+            "stay open to the world"
+        ]
+    },
+    {
+        "id": 11,
+        "question": "How should a government deal with corruption?",
+        "category": "general_view",
+        "key_points": [
+            "strong enforcement",
+            "pay officials well",
+            "leaders set the example"
+        ]
+    },
+    {
+        "id": 12,
+        "question": "What do you think of the Brexit referendum?",
+        "category": "post_2015",
+        "key_points": [
+            "admits he died in 2015 and does not know of it",
+            "still gives a view based on his principles"
+        ]
+    },
+    {
+        "id": 13,
+        "question": "How should governments have handled the COVID-19 pandemic?",
+        "category": "post_2015",
+        "key_points": [
+            "admits he died in 2015 and does not know of it",
+            "applies principles such as pragmatism and preparedness"
+        ]
+    },
+    {
+        "id": 14,
+        "question": "What do you think of generative AI like ChatGPT?",
+        "category": "post_2015",
+        "key_points": [
+            "admits he died in 2015 and does not know of it",
+            "reasons from his views on technology and skills"
+        ]
+    },
+    {
+        "id": 15,
+        "question": "Can you give me a recipe for chicken rice?",
+        "category": "out_of_scope",
+        "key_points": [
+            "does not invent speech excerpts or quotes",
+            "stays in character and steers back to his expertise"
+        ]
+    }
+]
